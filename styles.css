@@ -1,0 +1,95 @@
+html {
+  background-color: rgba(230, 230, 255, 0.4);
+  text-align: center;
+}
+
+/* color cheat sheet title */
+.description { 
+  font-family: sans-serif, "arial";
+  font-weight: 500px;
+  color: red;
+  text-decoration: underline;
+}
+
+/* name of author */
+.name {
+  font-style: italic;
+}
+
+/* paragraph text */
+p {
+  font-size: 20px;
+  font-weight: 100px;
+  font-family: sans-serif, "arial";
+  font-style: underline;
+  text-decoration: underline;
+}
+
+/* around the table borders */
+table { 
+  margin: 20px auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+/* single-line cell borders */
+td { 
+  border: 1px solid black;   
+  padding: 20px 20px;
+  text-align: center;
+  height: 30px;
+  width: 80px;
+}
+
+/* table heading border and color */
+th { 
+  background-color: white;
+  color: black;              
+  border: 1px solid black;   
+  padding: 10px 12px;
+  text-align: center;
+}
+
+/* The Colors for Each Cell */
+#color1 { background-color: #FF0000; }  /* Red */
+#color2 { background-color: #0000FF; }  /* Blue */
+#color3 { background-color: #00FF00; }  /* Green */
+
+
+/* Text of Table Colors */
+.redtext {
+  color: red;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+.bluetext {
+  color: blue;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+.greentext {
+  color: green;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+/* HEX of Table Colors */
+.redhex {
+  color: red;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+.bluehex {
+  color: blue;
+  font-size: 20px;
+  font-weight: 100px;
+}
+
+.greenhex {
+  color: green;
+  font-size: 20px;
+  font-weight: 100px;
+}
