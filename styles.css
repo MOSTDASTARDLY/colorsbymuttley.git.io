@@ -94,7 +94,9 @@ th {
   font-weight: 100px;
 }
 
+/* by muttley */
 img {
-  width: 300px;
-  height: 250px;
+  width: 100%
+  max-width: 300px
+  height: auto;
 }
