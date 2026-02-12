@@ -1,6 +1,7 @@
 html {
   background-color: rgba(230, 230, 255, 0.4);
   text-align: center;
+  margin: 0px;
 }
 
 /* color cheat sheet title */
@@ -9,11 +10,13 @@ html {
   font-weight: 500px;
   color: red;
   text-decoration: underline;
+  background-color: #fffa8e;
 }
 
 /* name of author */
 .name {
   font-style: italic;
+  background-color: #fffa8e;
 }
 
 /* paragraph text */
@@ -23,6 +26,7 @@ p {
   font-family: sans-serif, "arial";
   font-style: underline;
   text-decoration: underline;
+  background-color: #fffa8e;
 }
 
 /* around the table borders */
